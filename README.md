@@ -1,1 +1,1 @@
-# HCD
+# Histopathologic Cancer Detection
